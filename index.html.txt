@@ -28,7 +28,7 @@
         <a href="#contato">Contato</a>
     </nav>
     <div class="banner">
-        <img src="kingdown_defender_banner.jpg" alt="KingDown Defender">
+        <img src="banner.png" alt="KingDown Defender">
     </div>
     <section id="sobre">
         <h2>Sobre a Sem P2W</h2>
