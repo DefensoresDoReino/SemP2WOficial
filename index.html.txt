@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sem P2W - KingDownDefender</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #1a1a1a; color: white; }
+        header { background: linear-gradient(to right, #ff9900, #cc6600); padding: 20px; text-align: center; font-size: 28px; font-weight: bold; }
+        nav { background-color: #333; padding: 10px; text-align: center; }
+        nav a { color: white; text-decoration: none; margin: 15px; font-size: 18px; font-weight: bold; }
+        nav a:hover { color: #ff9900; }
+        .banner { text-align: center; padding: 30px; }
+        .banner img { width: 80%; max-width: 1000px; border-radius: 10px; }
+        section { padding: 40px; text-align: center; }
+        .btn-download { background-color: #ff9900; padding: 15px 30px; text-decoration: none; color: white; font-size: 20px; font-weight: bold; border-radius: 5px; display: inline-block; margin-top: 20px; }
+        .btn-download:hover { background-color: #cc6600; }
+        footer { background-color: #222; text-align: center; padding: 15px; margin-top: 20px; font-size: 14px; }
+    </style>
+</head>
+<body>
+    <header>
+        Sem P2W - Criando Jogos Justos
+    </header>
+    <nav>
+        <a href="#sobre">Sobre Nós</a>
+        <a href="#jogos">KingDownDefender</a>
+        <a href="#contato">Contato</a>
+    </nav>
+    <div class="banner">
+        <img src="kingdown_defender_banner.jpg" alt="KingDown Defender">
+    </div>
+    <section id="sobre">
+        <h2>Sobre a Sem P2W</h2>
+        <p>A Sem P2W é uma empresa focada em criar jogos equilibrados, sem mecânicas pay-to-win, garantindo diversão justa para todos os jogadores.</p>
+    </section>
+    <section id="jogos">
+        <h2>Nosso Jogo: KingDownDefender</h2>
+        <p>Um Tower Defense onde apenas estratégia e habilidade definem o vencedor.</p>
+        <a class="btn-download" href="#">Baixar Agora</a>
+    </section>
+    <section id="contato">
+        <h2>Entre em Contato</h2>
+        <p>E-mail: contato@semp2w.com</p>
+        <p>Redes sociais: @semp2w</p>
+    </section>
+    <footer>
+        <p>&copy; 2025 Sem P2W. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
